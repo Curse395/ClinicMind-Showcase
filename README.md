@@ -52,7 +52,7 @@ Ask healthcare questions in natural language through a clean, conversational int
 ClinicMind converts natural language questions into optimized SQL queries and presents structured results instantly.
 
 <p align="center">
-  <img src="assets/screenshots/chat-interface.png" width="55%">
+  <img src="assets/screenshots/chat_interface.png" width="55%">
 </p>
 
 ---
